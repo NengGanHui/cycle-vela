@@ -1,0 +1,62 @@
+{
+  "item": {
+    "id": "com.cycle.vela",
+    "restype": "quick_app",
+    "name": "经期追踪",
+    "description": "手环上的「女性健康」，你是不是打开一次就再也没点开过？\n不能预测、不能记录、跟没戴一样\n搜遍全网居然没有一款好用的经期应用\n那就自己做一个吧 —— 「经期追踪」\n\n\n专为你设计 · 完全免费​\n· 抬腕就能看到 · 下次还有几天\n· 越记越准 · 越戴越懂你\n· 数据只留在手环里 · 不联网\n· 免费开用 · 不花$\n\n\n支持设备​\n· 小米手环 9\n· 小米手环 9 Pro\n· 小米手环 10\n· 小米手环 10 Pro\n· 小米手环 11",
+    "preview": [
+      "media/头图-1536x1024_compressed.png",
+      "media/1.png",
+      "media/2.png",
+      "media/3.png",
+      "media/4.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/头图-1536x1024_compressed.png",
+    "author": [
+      {
+        "name": "nengganhui",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10": {
+      "version": "1.0.3",
+      "file_name": "downloads/com.cycle.vela.debug.1.0.3.rpk",
+      "versionCode": 4
+    },
+    "xmb10nfc": {
+      "version": "1.0.3",
+      "file_name": "downloads/com.cycle.vela.debug.1.0.3.rpk",
+      "versionCode": 4
+    },
+    "xmb10p": {
+      "version": "1.0.3",
+      "file_name": "downloads/com.cycle.vela.debug.1.0.3.rpk",
+      "versionCode": 4
+    },
+    "xmb11nfc": {
+      "version": "1.0.3",
+      "file_name": "downloads/com.cycle.vela.debug.1.0.3.rpk",
+      "versionCode": 4
+    },
+    "xmb11": {
+      "version": "1.0.3",
+      "file_name": "downloads/com.cycle.vela.debug.1.0.3.rpk",
+      "versionCode": 4
+    },
+    "xmb9": {
+      "version": "1.0.3",
+      "file_name": "downloads/com.cycle.vela.debug.1.0.3.rpk",
+      "versionCode": 4
+    },
+    "xmb9p": {
+      "version": "1.0.3",
+      "file_name": "downloads/com.cycle.vela.debug.1.0.3.rpk",
+      "versionCode": 4
+    }
+  },
+  "ext": {}
+}
