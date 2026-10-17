@@ -23,39 +23,39 @@
   "links": [],
   "downloads": {
     "xmb10": {
-      "version": "1.0.3",
-      "file_name": "downloads/com.cycle.vela.debug.1.0.3.rpk",
-      "versionCode": 4
+      "version": "1.0.4",
+      "file_name": "downloads/com.cycle.vela.1.0.4.rpk",
+      "versionCode": 5
     },
     "xmb10nfc": {
-      "version": "1.0.3",
-      "file_name": "downloads/com.cycle.vela.debug.1.0.3.rpk",
-      "versionCode": 4
+      "version": "1.0.4",
+      "file_name": "downloads/com.cycle.vela.1.0.4.rpk",
+      "versionCode": 5
     },
     "xmb10p": {
-      "version": "1.0.3",
-      "file_name": "downloads/com.cycle.vela.debug.1.0.3.rpk",
-      "versionCode": 4
+      "version": "1.0.4",
+      "file_name": "downloads/com.cycle.vela.1.0.4.rpk",
+      "versionCode": 5
     },
     "xmb11nfc": {
-      "version": "1.0.3",
-      "file_name": "downloads/com.cycle.vela.debug.1.0.3.rpk",
-      "versionCode": 4
+      "version": "1.0.4",
+      "file_name": "downloads/com.cycle.vela.1.0.4.rpk",
+      "versionCode": 5
     },
     "xmb11": {
-      "version": "1.0.3",
-      "file_name": "downloads/com.cycle.vela.debug.1.0.3.rpk",
-      "versionCode": 4
+      "version": "1.0.4",
+      "file_name": "downloads/com.cycle.vela.1.0.4.rpk",
+      "versionCode": 5
     },
     "xmb9": {
-      "version": "1.0.3",
-      "file_name": "downloads/com.cycle.vela.debug.1.0.3.rpk",
-      "versionCode": 4
+      "version": "1.0.4",
+      "file_name": "downloads/com.cycle.vela.1.0.4.rpk",
+      "versionCode": 5
     },
     "xmb9p": {
-      "version": "1.0.3",
-      "file_name": "downloads/com.cycle.vela.debug.1.0.3.rpk",
-      "versionCode": 4
+      "version": "1.0.4",
+      "file_name": "downloads/com.cycle.vela.1.0.4.rpk",
+      "versionCode": 5
     }
   },
   "ext": {}
